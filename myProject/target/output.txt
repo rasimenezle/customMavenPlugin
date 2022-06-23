@@ -1,0 +1,18 @@
+Project info:com.rasime.myProject.0.0.1-SNAPSHOT
+Developers:
+	Developer 1 Name : Rasime
+	Developer 2 Name : patika
+Dependecies:
+	Dependency junit.junit
+Release Date: releaseDate
+Plugins
+	Plugin: maven-dependency-plugin
+	Plugin: mymojos
+	Plugin: maven-clean-plugin
+	Plugin: maven-resources-plugin
+	Plugin: maven-jar-plugin
+	Plugin: maven-compiler-plugin
+	Plugin: maven-surefire-plugin
+	Plugin: maven-install-plugin
+	Plugin: maven-deploy-plugin
+	Plugin: maven-site-plugin
